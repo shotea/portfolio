@@ -43,7 +43,7 @@ https://cozy-sopapillas-ba90a1.netlify.app
 ## Installation
 
 # Clone the repository
-git clone  
+git clone  https://github.com/shotea/portfolio.git
 
 # Change into the project directory
 cd your-repo
