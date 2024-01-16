@@ -40,7 +40,7 @@ https://cozy-sopapillas-ba90a1.netlify.app
 3. Run the project with npm start.
 4. Open the browser and navigate to http://localhost:3000 to view the portfolio.
 
-### Installation
+## Installation
 
 # Clone the repository
 git clone  
