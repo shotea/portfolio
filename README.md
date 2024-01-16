@@ -42,11 +42,11 @@ https://cozy-sopapillas-ba90a1.netlify.app
 
 ## Installation
 
-# Clone the repository
+## Clone the repository
 git clone  
 
-# Change into the project directory
+## Change into the project directory
 cd your-repo
 
-# Install dependencies
+## Install dependencies
 npm install
